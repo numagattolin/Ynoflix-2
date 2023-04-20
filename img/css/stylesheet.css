@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-image: url(/img/);
+}
+nav{
+    background-color: red;
+    height: 100px;
+}
+form{
+    background-color: blue;
+    height: 250px;
+    width: 300px;
+    display: flex;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
